@@ -7,7 +7,7 @@
             "config":{"distDir":"dist"}
         }
     ],
-    "rewritess":[
+    "rewrites":[
         {
             "source":"/(.*)",
             "destination":"/"
